@@ -1,0 +1,1 @@
+This is a small game written in Python. Its purpose is to kill a certain number of aliens. You can not collide with aliens and meteorites, otherwise you will lose your life. You must not miss the aliens, otherwise you will lose. Your character has a cooldown. That seems to be it.
